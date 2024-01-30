@@ -1,10 +1,10 @@
 # screen_sound
 
-⭐ Descrição do projeto
+#### ⭐ Descrição do projeto
 Sistema de cadastro e avaliação de bandas.
 
-⭐ Tecnologia utilizada
+#### ⭐ Tecnologia utilizada
 C#
 
-⭐ Curso - Alura
+#### ⭐ Curso - Alura
 C#: criando sua primeira aplicação

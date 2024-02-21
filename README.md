@@ -1,7 +1,7 @@
 # screen_sound
 
 #### ⭐ Descrição do projeto
-Sistema de cadastro e avaliação de bandas.
+Projeto back-end para sistema de cadastro e avaliação de bandas.
 
 #### ⭐ Tecnologia utilizada
 C#
